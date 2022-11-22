@@ -10,7 +10,7 @@ def KURD(M):
         n.stdout.write(c)
         n.stdout.flush()
         mm.sleep(1. / 100)
-KURD(Fore.BLUE+'''
+KURD('''
 
 
         __   __        _____     _          
