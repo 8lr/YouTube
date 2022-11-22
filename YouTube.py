@@ -57,7 +57,7 @@ id = input("Enter you Telegram ID >> ")
 mm.sleep(1)
 token = input("Enter you token bot >> ")
 print('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
-num = int(input("How many letters do you want >> "))
+num = int(input("How many letters do you want for the usernames to be >> "))
 if num <= 3:
     print("We cannot choose smaller or equal to 3")
     input("Press Enter to exit")
